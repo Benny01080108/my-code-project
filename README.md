@@ -1,5 +1,5 @@
 # Hello everyone!
-This repository holds my programming projects done during the peroid of learning stancode SC001 course
+This repository holds my programming projects done during the peroid of learning stanford online courses
 
 ## my code here:
 First project
