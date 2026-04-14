@@ -1,9 +1,8 @@
 """
 File: Steeplechase.py
 Name: TODO:Benny
----------------------------------
-TODO:
 """
+
 
 from karel.stanfordkarel import *
 
