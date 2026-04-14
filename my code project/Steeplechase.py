@@ -2,8 +2,6 @@
 File: Steeplechase.py
 Name: TODO:Benny
 """
-
-
 from karel.stanfordkarel import *
 
 def right():
@@ -33,11 +31,6 @@ def main():
         else:
             up()
             down()
-
-
-
-
-
-# ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
+            
 if __name__ == '__main__':
     execute_karel_task(main)
